@@ -1,3 +1,3 @@
-const func = () => {
+const fn = () => {
     
 }
